@@ -5,8 +5,8 @@ CareSync is a multidisciplinary engineering project focused on developing an int
 The system combines three interconnected components:
 
 - **CareBox:** An automatic medication dispenser designed to organise and assist with scheduled medication intake.
-- **CareBand:** A wearable device that supports user identification and interaction with the CareBox through visual and haptic feedback.
-- **CareApp:** A digital platform designed to manage medication schedules, monitor medication events and provide remote access to relevant information.
+- **CareBand:** A wearable device designed to support user identification and interaction with the CareBox.
+- **CareApp:** A digital platform designed to manage medication schedules and monitor medication events.
 
 ## System Architecture
 
@@ -45,6 +45,26 @@ My main responsibilities included:
 The project includes the design and development of the system architecture, hardware components and prototype.
 
 Further improvements and features are part of the proposed future development, including interface enhancements, modular medication storage and expanded monitoring capabilities.
+
+## Project Gallery
+
+### CareBox — Physical Prototype
+
+Physical prototype of the CareBox, showcasing the hardware implementation and system integration.
+
+![CareBox Prototype](Images/CareBox_Prototype.png)
+
+### CareSync — System Overview
+
+Overview of the CareSync ecosystem and its three interconnected components.
+
+![CareSync Overview](Images/CareSync.png)
+
+### System Architecture
+
+Overall system architecture, illustrating the communication and interaction between the different components.
+
+![System Architecture](Images/System_Architecture.png)
 
 ## Presentation
 
